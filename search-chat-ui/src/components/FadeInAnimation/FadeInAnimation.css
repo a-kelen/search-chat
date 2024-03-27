@@ -1,0 +1,8 @@
+.base-state {
+    opacity: 0;
+}
+  
+.fade-in {
+    opacity: 1;
+    transition: opacity 1s ease-in-out;
+}
